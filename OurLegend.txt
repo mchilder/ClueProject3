@@ -1,0 +1,11 @@
+L, Lemon Showroom,215
+J, Jack-in-the-Box Museum,387
+O, Golden Oldies Showroom,54
+R, Ryan's Room,21
+V, Vulcan Museum,261
+T, The Man Cave,361
+C, Cwm Viewing Patio,395
+P, Bathroom,27
+B, Mattress Emporium,141
+X, Closet,0
+W, Hallway,0

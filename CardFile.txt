@@ -1,0 +1,21 @@
+Room,Lemon Showroom
+Room,Jack-in-the-Box Museum
+Room,Ryan's Room
+Room,Vulcan Museum
+Room,The Man Cave
+Room,Cwm Viewing Patio
+Room,Bathroom
+Room,Mattress Emporium
+Room,Hallway
+Person,Miss Scarlet
+Person,Colonel Mustard
+Person,Mrs. White
+Person,Mr. Green
+Person,Mrs. Peacock
+Person,Professor Plum
+Weapon,Revolver
+Weapon,Rope
+Weapon,Pipe Wrench
+Weapon,Knife
+Weapon,Harpoon
+Weapon,Candlestick
